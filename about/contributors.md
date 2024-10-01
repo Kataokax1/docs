@@ -28,7 +28,7 @@ I'm a backend dev
 
 ### <img src="../.gitbook/assets/0d3c62a37f3fd4f29105ddfe30c71c9c-modified.png" alt="" data-size="line"> Kx1
 
-Heyo! I am kx1. I am a passionate Website Engineer, Software Engineer and Discord enthusiast. I can code in HTML, CSS, Python, Markdown and more. I love to learn new code and instruments too.
+Heyo! I am kx1. I am a passionate Website Engineer, Software Engineer and Discord enthusiast. I can code in HTML, CSS, Python, Markdown and more. I love to learn new code and play the bass guitar. I am still learning many code types so I may not be good but I am dedicated to learning!
 
 <img src="../.gitbook/assets/socials/yoursitee.png" alt="" data-size="line"> [@katx1](https://yoursit.ee/katx1) | <img src="../.gitbook/assets/socials/discord.jpg" alt="" data-size="line"> [@takoaka\_](https://discord.com/users/904619308628471818)
 
