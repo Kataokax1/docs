@@ -13,6 +13,8 @@ Although this list does not cover everything, here are a few examples of issues 
 * Basic troubleshooting
 * Information about updates
 * Questions related to features
+* Spelling errors in this documentation
+* Features of Yoursitee we missed
 
 Don't forget to keep an eye on our feed for any news about known problems and updates for YourSitee.
 
